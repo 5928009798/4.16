@@ -1,0 +1,4 @@
+body { background-color: #DA70D6;
+background-image: linear-gradient(to
+bottom, #FFFFFF, #DA70D6);
+background-repeat: no-repeat; }
